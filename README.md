@@ -15,9 +15,8 @@ typescript : 5.1.5
 
 ## 结果
 得到的是包含了注释、mybatis-plus注解、字段定义的Java代码，例如
-`
+```
 /**
 */
 @TableField(")
 private xxx xxx;
-`
